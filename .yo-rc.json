@@ -1,0 +1,47 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.jhipster.app",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.1.2",
+    "applicationType": "monolith",
+    "baseName": "first_jHipster",
+    "packageName": "com.jhipster.app",
+    "packageFolder": "com/jhipster/app",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": "kafka",
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "NjFlZjkyYmQ3ODE2OTFkMjUzM2E4YjU0ZDM2MzYwODgwN2U3YWJiN2Q2MDcxOTA2ZTYxNzY0MzRiMGNiNmM2NDJkZDBmNzU4ZjAzZWIwM2IxMDg0NDMwNmE4ZDhkMTlkNzM2MzEyMmM5YmY3MWM3MmQ0NmU3ODdiZTk4ODgzYWM=",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [
+      "gatling",
+      "cucumber",
+      "protractor"
+    ],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "ko"
+    ]
+  }
+}
