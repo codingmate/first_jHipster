@@ -1,3 +1,5 @@
+https://velog.io/@dsunni/JHipster-JHipster%EB%9E%80
+
 1. May JHipster anonymously report usage statistics to improve the
 tool over time? (Y/n) → **Y**
     
